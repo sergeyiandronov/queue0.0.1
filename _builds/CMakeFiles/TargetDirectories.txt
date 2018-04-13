@@ -1,6 +1,0 @@
-/home/sergey/1/queue1/_builds/CMakeFiles/rebuild_cache.dir
-/home/sergey/1/queue1/_builds/CMakeFiles/queue.dir
-/home/sergey/1/queue1/_builds/CMakeFiles/mainfile.dir
-/home/sergey/1/queue1/_builds/CMakeFiles/edit_cache.dir
-/home/sergey/1/queue1/_builds/CMakeFiles/tests.dir
-/home/sergey/1/queue1/_builds/CMakeFiles/test.dir
