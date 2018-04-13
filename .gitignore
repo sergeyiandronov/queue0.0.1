@@ -1,0 +1,4 @@
+_builds
+.DS_Store
+*.swp
+cmake_def
