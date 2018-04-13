@@ -1,0 +1,22 @@
+Start testing: Apr 13 20:18 MSK
+----------------------------------------------------------
+1/1 Testing: test_name
+1/1 Test: test_name
+Command: "/home/sergey/1/queue1/_builds/tests" "-s" "-r" "compact" "--use-colour" "yes"
+Directory: /home/sergey/1/queue1/_builds
+"test_name" start time: Apr 13 20:18 MSK
+Output:
+----------------------------------------------------------
+[0;37m/home/sergey/1/queue1/tests/queue.cpp:19:[0m[1;32m passed[0m: q.pop()
+[0;37m/home/sergey/1/queue1/tests/queue.cpp:21:[0m[1;32m passed[0m: "1" == ostream.str()[0;37m for: [0m"1" == "1"
+[1;32mPassed 1 test case with 2 assertions.[0m
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_name" end time: Apr 13 20:18 MSK
+"test_name" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 13 20:18 MSK

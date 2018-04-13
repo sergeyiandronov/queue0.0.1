@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mainfile.dir/sources/queue.cpp.o  -o mainfile libqueue.a 

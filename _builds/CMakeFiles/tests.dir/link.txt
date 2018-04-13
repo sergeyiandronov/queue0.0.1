@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tests.dir/tests/main.cpp.o CMakeFiles/tests.dir/tests/queue.cpp.o  -o tests libqueue.a 
