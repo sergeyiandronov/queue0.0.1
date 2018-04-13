@@ -51,6 +51,8 @@ public:
 		return;
 	}
 	queue_t(queue_t & other) {
+        head = nullptr;
+		tail = nullptr;
 		for (node_t* n =other.head; n != nullptr; n = n->next) {
 			push(n->value);
 		}
